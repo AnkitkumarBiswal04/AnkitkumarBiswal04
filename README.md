@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Biswal</h1>
 <h3 align="center">Constantly Innovating with New Project Ideas and Code</h3>
-<img align="right" alt="coding" width="400" src="[https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk](https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif)">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI5bXN1ZG8xZzV5OHllZ2hna3VoMjhma3JpOHF2dGRhdjZ0YXR1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumarbiswal04&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarbiswal04" /> </p>
 
 - 🌱 I’m currently learning **C++,JavaScript,React**
